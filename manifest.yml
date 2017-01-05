@@ -4,6 +4,6 @@ applications:
   name: <your-bluemix-appname>
   command: node app.js
   path: .
-  domain: mybluemix.net
+  domain: eu-gb.mybluemix.net
   instances: 1
   memory: 128M
